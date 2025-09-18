@@ -1,0 +1,11 @@
+streamlit
+langchain>=0.2
+langchain-openai>=0.1
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+langchain-core>=0.2
+chromadb>=0.5
+arxiv
+pymupdf
+tiktoken
+nbformat
